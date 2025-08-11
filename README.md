@@ -62,7 +62,7 @@ Both datasets were combined, balanced, and preprocessed (resizing to **224 × 22
 ##  Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/pulmoai.git
+git clone https://github.com/LuhithaP/pulmoai.git
 cd pulmoai
 pip install -r requirements.txt
-python app.py
+python WebApp/app.py
