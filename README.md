@@ -45,7 +45,7 @@ Both datasets were combined, balanced, and preprocessed (resizing to **224 × 22
 ---
 ## UI Preview
 ### Homepage
-![PulmoAI Homepage](images/UI home.png)
+![PulmoAI Homepage](images/UI.png)
 
 ### Prediction Result
 ![Prediction Output](images/prediction.png)
